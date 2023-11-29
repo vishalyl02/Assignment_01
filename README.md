@@ -39,7 +39,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Assignment_01.git
+   git clone https://github.com/username/Assignment_01.git
    
   ```bash
   cd Assignment_01
@@ -56,14 +56,14 @@ npm install request
 To search for jokes, run the following command:
 
 ```bash
-node next_work.js yourSearchTerm
+node next_work.js SearchTerm
 
 ```
 
-Replace yourSearchTerm with the term you want to search for jokes. The tool will fetch jokes from the "icanhazdadjoke" API and display a random joke. The joke will be saved to a file named jokes.txt for future laughs!
+Replace SearchTerm with the term you want to search for jokes. The tool will fetch jokes from the "icanhazdadjoke" API and display a random joke. The joke will be saved to a file named jokes.txt for future laughs!
 
 ### Leaderboard
-To see the most popular joke in your collection, run:
+To see the most popular joke in collection, run:
 
 
 ```bash
