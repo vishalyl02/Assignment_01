@@ -45,7 +45,7 @@ Make sure you have the following installed on your machine:
   cd Assignment_01
 ```
 ```bash
-cd install
+npm install request
 
 ```
 
