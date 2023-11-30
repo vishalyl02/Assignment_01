@@ -3,7 +3,7 @@
 
 # Joke Search 
 
-Welcome to Joke Search - the ultimate command line tool to fetch, save, and laugh at dad jokes!
+Welcome to Joke Search - the ultimate command line tool to fetch, save, and laugh at jokes!
 
 ## Table of Contents
 
